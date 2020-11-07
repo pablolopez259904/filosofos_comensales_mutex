@@ -1,0 +1,752 @@
+00:59:01 AM Filosofo angi esta comiendo
+00:59:01 AM Filosofo lusi esta comiendo
+00:59:02 AM Filosofo marcos esta comiendo
+00:59:02 AM Filosofo lusi termino de comer
+00:59:11 AM Filosofo maria esta comiendo
+00:59:11 AM Filosofo monica esta comiendo
+00:59:11 AM Filosofo luis esta comiendo
+00:59:11 AM Filosofo bryant esta comiendo
+00:59:11 AM Filosofo rocio esta comiendo
+00:59:11 AM Filosofo messi esta comiendo
+00:59:11 AM Filosofo maria termino de comer
+00:59:20 AM Filosofo marcos termino de comer
+00:59:28 AM Filosofo jose esta comiendo
+00:59:28 AM Filosofo anibal esta comiendo
+00:59:28 AM Filosofo angi termino de comer
+00:59:35 AM Filosofo kike esta comiendo
+00:59:35 AM Filosofo monica termino de comer
+00:59:37 AM Filosofo rocio termino de comer
+00:59:38 AM Filosofo bryant termino de comer
+00:59:42 AM Filosofo pablo esta comiendo
+00:59:42 AM Filosofo messi termino de comer
+00:59:50 AM Filosofo anibal termino de comer
+00:59:50 AM Filosofo alex esta comiendo
+00:59:50 AM Filosofo fredi esta comiendo
+00:59:50 AM Filosofo jose termino de comer
+00:59:51 AM Filosofo vinicio esta comiendo
+00:59:51 AM Filosofo kike termino de comer
+00:59:54 AM Filosofo cristiano esta comiendo
+00:59:54 AM Filosofo luis termino de comer
+01:00:00 AM Filosofo yesi esta comiendo
+01:00:00 AM Filosofo fredi termino de comer
+01:00:05 AM Filosofo vinicio termino de comer
+01:00:11 AM Filosofo cristiano termino de comer
+01:00:17 AM Filosofo alex termino de comer
+01:00:20 AM Filosofo ingrid esta comiendo
+01:00:20 AM Filosofo pablo termino de comer
+01:00:24 AM Filosofo alberto esta comiendo
+01:00:24 AM Filosofo yesi termino de comer
+01:00:28 AM Filosofo ingrid termino de comer
+01:00:32 AM Filosofo alberto termino de comer
+01:00:36 AM Filosofo alex esta comiendo
+01:00:37 AM Filosofo maria esta comiendo
+01:00:37 AM Filosofo maria termino de comer
+01:00:41 AM Filosofo vinicio esta comiendo
+01:00:41 AM Filosofo alex termino de comer
+01:00:48 AM Filosofo alberto esta comiendo
+01:00:48 AM Filosofo cristiano esta comiendo
+01:00:48 AM Filosofo fredi esta comiendo
+01:00:48 AM Filosofo angi esta comiendo
+01:00:48 AM Filosofo anibal esta comiendo
+01:00:48 AM Filosofo vinicio termino de comer
+01:00:54 AM Filosofo luis esta comiendo
+01:00:54 AM Filosofo jose esta comiendo
+01:00:54 AM Filosofo monica esta comiendo
+01:00:54 AM Filosofo anibal termino de comer
+01:00:55 AM Filosofo angi termino de comer
+01:01:04 AM Filosofo alberto termino de comer
+01:01:13 AM Filosofo cristiano termino de comer
+01:01:20 AM Filosofo lusi esta comiendo
+01:01:20 AM Filosofo fredi termino de comer
+01:01:21 AM Filosofo rocio esta comiendo
+01:01:21 AM Filosofo bryant esta comiendo
+01:01:21 AM Filosofo jose termino de comer
+01:01:29 AM Filosofo kike esta comiendo
+01:01:29 AM Filosofo messi esta comiendo
+01:01:29 AM Filosofo luis termino de comer
+01:01:32 AM Filosofo lusi termino de comer
+01:01:38 AM Filosofo monica termino de comer
+01:01:47 AM Filosofo bryant termino de comer
+01:01:55 AM Filosofo rocio termino de comer
+01:01:57 AM Filosofo ingrid esta comiendo
+01:01:57 AM Filosofo messi termino de comer
+01:02:06 AM Filosofo yesi esta comiendo
+01:02:06 AM Filosofo kike termino de comer
+01:02:14 AM Filosofo pablo esta comiendo
+01:02:14 AM Filosofo marcos esta comiendo
+01:02:14 AM Filosofo ingrid termino de comer
+01:02:23 AM Filosofo yesi termino de comer
+01:02:31 AM Filosofo pablo termino de comer
+01:02:37 AM Filosofo marcos termino de comer
+01:02:43 AM Filosofo pablo esta comiendo
+01:02:43 AM Filosofo maria esta comiendo
+01:02:44 AM Filosofo yesi esta comiendo
+01:02:44 AM Filosofo marcos esta comiendo
+01:02:44 AM Filosofo fredi esta comiendo
+01:02:46 AM Filosofo maria termino de comer
+01:02:53 AM Filosofo monica esta comiendo
+01:02:53 AM Filosofo lusi esta comiendo
+01:02:53 AM Filosofo pablo termino de comer
+01:03:01 AM Filosofo alberto esta comiendo
+01:03:01 AM Filosofo fredi termino de comer
+01:03:08 AM Filosofo rocio esta comiendo
+01:03:08 AM Filosofo angi esta comiendo
+01:03:08 AM Filosofo bryant esta comiendo
+01:03:08 AM Filosofo marcos termino de comer
+01:03:11 AM Filosofo yesi termino de comer
+01:03:20 AM Filosofo monica termino de comer
+01:03:24 AM Filosofo vinicio esta comiendo
+01:03:24 AM Filosofo lusi termino de comer
+01:03:27 AM Filosofo cristiano esta comiendo
+01:03:27 AM Filosofo anibal esta comiendo
+01:03:27 AM Filosofo luis esta comiendo
+01:03:27 AM Filosofo bryant termino de comer
+01:03:33 AM Filosofo rocio termino de comer
+01:03:41 AM Filosofo alberto termino de comer
+01:03:48 AM Filosofo vinicio termino de comer
+01:03:54 AM Filosofo angi termino de comer
+01:03:57 AM Filosofo kike esta comiendo
+01:03:57 AM Filosofo alex esta comiendo
+01:03:57 AM Filosofo anibal termino de comer
+01:03:57 AM Filosofo luis termino de comer
+01:04:02 AM Filosofo ingrid esta comiendo
+01:04:02 AM Filosofo cristiano termino de comer
+01:04:02 AM Filosofo jose esta comiendo
+01:04:02 AM Filosofo kike termino de comer
+01:04:06 AM Filosofo messi esta comiendo
+01:04:06 AM Filosofo alex termino de comer
+01:04:08 AM Filosofo ingrid termino de comer
+01:04:15 AM Filosofo jose termino de comer
+01:04:20 AM Filosofo messi termino de comer
+01:04:29 AM Filosofo alberto esta comiendo
+01:04:29 AM Filosofo vinicio esta comiendo
+01:04:29 AM Filosofo angi esta comiendo
+01:04:29 AM Filosofo marcos esta comiendo
+01:04:30 AM Filosofo alberto termino de comer
+01:04:32 AM Filosofo maria esta comiendo
+01:04:32 AM Filosofo luis esta comiendo
+01:04:32 AM Filosofo marcos termino de comer
+01:04:39 AM Filosofo rocio esta comiendo
+01:04:39 AM Filosofo angi termino de comer
+01:04:39 AM Filosofo alex esta comiendo
+01:04:39 AM Filosofo cristiano esta comiendo
+01:04:39 AM Filosofo vinicio termino de comer
+01:04:48 AM Filosofo bryant esta comiendo
+01:04:48 AM Filosofo anibal esta comiendo
+01:04:48 AM Filosofo maria termino de comer
+01:04:49 AM Filosofo jose esta comiendo
+01:04:49 AM Filosofo kike esta comiendo
+01:04:49 AM Filosofo anibal termino de comer
+01:04:49 AM Filosofo luis termino de comer
+01:04:52 AM Filosofo rocio termino de comer
+01:04:53 AM Filosofo ingrid esta comiendo
+01:04:53 AM Filosofo bryant termino de comer
+01:04:59 AM Filosofo jose termino de comer
+01:05:02 AM Filosofo yesi esta comiendo
+01:05:02 AM Filosofo alex termino de comer
+01:05:02 AM Filosofo kike termino de comer
+01:05:08 AM Filosofo cristiano termino de comer
+01:05:08 AM Filosofo lusi esta comiendo
+01:05:08 AM Filosofo pablo esta comiendo
+01:05:08 AM Filosofo fredi esta comiendo
+01:05:08 AM Filosofo ingrid termino de comer
+01:05:14 AM Filosofo yesi termino de comer
+01:05:19 AM Filosofo monica esta comiendo
+01:05:19 AM Filosofo messi esta comiendo
+01:05:19 AM Filosofo lusi termino de comer
+01:05:26 AM Filosofo fredi termino de comer
+01:05:34 AM Filosofo pablo termino de comer
+01:05:43 AM Filosofo messi termino de comer
+01:05:49 AM Filosofo monica termino de comer
+01:05:58 AM Filosofo angi esta comiendo
+01:05:58 AM Filosofo cristiano esta comiendo
+01:05:58 AM Filosofo yesi esta comiendo
+01:05:59 AM Filosofo bryant esta comiendo
+01:05:59 AM Filosofo ingrid esta comiendo
+01:05:59 AM Filosofo jose esta comiendo
+01:06:00 AM Filosofo yesi termino de comer
+01:06:00 AM Filosofo jose termino de comer
+01:06:02 AM Filosofo angi termino de comer
+01:06:04 AM Filosofo alex esta comiendo
+01:06:04 AM Filosofo vinicio esta comiendo
+01:06:04 AM Filosofo cristiano termino de comer
+01:06:09 AM Filosofo marcos esta comiendo
+01:06:09 AM Filosofo lusi esta comiendo
+01:06:09 AM Filosofo bryant termino de comer
+01:06:11 AM Filosofo fredi esta comiendo
+01:06:11 AM Filosofo messi esta comiendo
+01:06:11 AM Filosofo pablo esta comiendo
+01:06:11 AM Filosofo alex termino de comer
+01:06:19 AM Filosofo ingrid termino de comer
+01:06:20 AM Filosofo vinicio termino de comer
+01:06:26 AM Filosofo monica esta comiendo
+01:06:26 AM Filosofo maria esta comiendo
+01:06:26 AM Filosofo fredi termino de comer
+01:06:30 AM Filosofo rocio esta comiendo
+01:06:30 AM Filosofo pablo termino de comer
+01:06:39 AM Filosofo lusi termino de comer
+01:06:39 AM Filosofo marcos termino de comer
+01:06:39 AM Filosofo anibal esta comiendo
+01:06:39 AM Filosofo kike esta comiendo
+01:06:39 AM Filosofo messi termino de comer
+01:06:42 AM Filosofo luis esta comiendo
+01:06:42 AM Filosofo maria termino de comer
+01:06:43 AM Filosofo alberto esta comiendo
+01:06:43 AM Filosofo monica termino de comer
+01:06:46 AM Filosofo kike termino de comer
+01:06:52 AM Filosofo rocio termino de comer
+01:06:56 AM Filosofo alberto termino de comer
+01:06:58 AM Filosofo anibal termino de comer
+01:07:02 AM Filosofo luis termino de comer
+01:07:12 AM Filosofo marcos esta comiendo
+01:07:12 AM Filosofo marcos termino de comer
+01:07:18 AM Filosofo jose esta comiendo
+01:07:18 AM Filosofo rocio esta comiendo
+01:07:18 AM Filosofo angi esta comiendo
+01:07:18 AM Filosofo anibal esta comiendo
+01:07:18 AM Filosofo cristiano esta comiendo
+01:07:18 AM Filosofo bryant esta comiendo
+01:07:18 AM Filosofo monica esta comiendo
+01:07:18 AM Filosofo angi termino de comer
+01:07:25 AM Filosofo luis esta comiendo
+01:07:25 AM Filosofo alberto esta comiendo
+01:07:25 AM Filosofo kike esta comiendo
+01:07:25 AM Filosofo cristiano termino de comer
+01:07:27 AM Filosofo messi esta comiendo
+01:07:27 AM Filosofo bryant termino de comer
+01:07:34 AM Filosofo anibal termino de comer
+01:07:40 AM Filosofo lusi esta comiendo
+01:07:40 AM Filosofo rocio termino de comer
+01:07:44 AM Filosofo alberto termino de comer
+01:07:48 AM Filosofo kike termino de comer
+01:07:55 AM Filosofo fredi esta comiendo
+01:07:55 AM Filosofo pablo esta comiendo
+01:07:55 AM Filosofo messi termino de comer
+01:08:01 AM Filosofo monica termino de comer
+01:08:08 AM Filosofo lusi termino de comer
+01:08:11 AM Filosofo jose termino de comer
+01:08:13 AM Filosofo maria esta comiendo
+01:08:13 AM Filosofo luis termino de comer
+01:08:16 AM Filosofo ingrid esta comiendo
+01:08:16 AM Filosofo yesi esta comiendo
+01:08:16 AM Filosofo fredi termino de comer
+01:08:23 AM Filosofo alex esta comiendo
+01:08:23 AM Filosofo pablo termino de comer
+01:08:27 AM Filosofo maria termino de comer
+01:08:29 AM Filosofo vinicio esta comiendo
+01:08:29 AM Filosofo ingrid termino de comer
+01:08:36 AM Filosofo yesi termino de comer
+01:08:45 AM Filosofo alex termino de comer
+01:08:50 AM Filosofo vinicio termino de comer
+01:08:59 AM Filosofo rocio esta comiendo
+01:08:59 AM Filosofo angi esta comiendo
+01:09:00 AM Filosofo anibal esta comiendo
+01:09:00 AM Filosofo messi esta comiendo
+01:09:00 AM Filosofo anibal termino de comer
+01:09:03 AM Filosofo marcos esta comiendo
+01:09:03 AM Filosofo maria esta comiendo
+01:09:03 AM Filosofo monica esta comiendo
+01:09:03 AM Filosofo monica termino de comer
+01:09:08 AM Filosofo vinicio esta comiendo
+01:09:08 AM Filosofo maria termino de comer
+01:09:15 AM Filosofo angi termino de comer
+01:09:15 AM Filosofo alberto esta comiendo
+01:09:15 AM Filosofo rocio termino de comer
+01:09:22 AM Filosofo bryant esta comiendo
+01:09:22 AM Filosofo alex esta comiendo
+01:09:22 AM Filosofo lusi esta comiendo
+01:09:22 AM Filosofo vinicio termino de comer
+01:09:30 AM Filosofo jose esta comiendo
+01:09:30 AM Filosofo luis esta comiendo
+01:09:30 AM Filosofo alberto termino de comer
+01:09:30 AM Filosofo marcos termino de comer
+01:09:36 AM Filosofo kike esta comiendo
+01:09:36 AM Filosofo alex termino de comer
+01:09:44 AM Filosofo bryant termino de comer
+01:09:44 AM Filosofo pablo esta comiendo
+01:09:44 AM Filosofo messi termino de comer
+01:09:44 AM Filosofo jose termino de comer
+01:09:45 AM Filosofo fredi esta comiendo
+01:09:45 AM Filosofo luis termino de comer
+01:09:52 AM Filosofo lusi termino de comer
+01:09:58 AM Filosofo cristiano esta comiendo
+01:09:58 AM Filosofo pablo termino de comer
+01:10:03 AM Filosofo fredi termino de comer
+01:10:05 AM Filosofo yesi esta comiendo
+01:10:05 AM Filosofo ingrid esta comiendo
+01:10:05 AM Filosofo kike termino de comer
+01:10:14 AM Filosofo cristiano termino de comer
+01:10:19 AM Filosofo yesi termino de comer
+01:10:19 AM Filosofo ingrid termino de comer
+01:10:34 AM Filosofo pablo esta comiendo
+01:10:34 AM Filosofo pablo termino de comer
+01:10:43 AM Filosofo kike esta comiendo
+01:10:43 AM Filosofo yesi esta comiendo
+01:10:43 AM Filosofo lusi esta comiendo
+01:10:43 AM Filosofo alberto esta comiendo
+01:10:43 AM Filosofo bryant esta comiendo
+01:10:43 AM Filosofo vinicio esta comiendo
+01:10:43 AM Filosofo rocio esta comiendo
+01:10:43 AM Filosofo vinicio termino de comer
+01:10:51 AM Filosofo monica esta comiendo
+01:10:51 AM Filosofo jose esta comiendo
+01:10:51 AM Filosofo yesi termino de comer
+01:10:59 AM Filosofo messi esta comiendo
+01:10:59 AM Filosofo kike termino de comer
+01:11:06 AM Filosofo bryant termino de comer
+01:11:14 AM Filosofo alberto termino de comer
+01:11:23 AM Filosofo rocio termino de comer
+01:11:32 AM Filosofo jose termino de comer
+01:11:35 AM Filosofo monica termino de comer
+01:11:39 AM Filosofo luis esta comiendo
+01:11:39 AM Filosofo alex esta comiendo
+01:11:39 AM Filosofo lusi termino de comer
+01:11:46 AM Filosofo anibal esta comiendo
+01:11:46 AM Filosofo fredi esta comiendo
+01:11:46 AM Filosofo maria esta comiendo
+01:11:46 AM Filosofo messi termino de comer
+01:11:53 AM Filosofo cristiano esta comiendo
+01:11:53 AM Filosofo alex termino de comer
+01:11:54 AM Filosofo angi esta comiendo
+01:11:54 AM Filosofo anibal termino de comer
+01:11:55 AM Filosofo marcos esta comiendo
+01:11:55 AM Filosofo luis termino de comer
+01:11:56 AM Filosofo fredi termino de comer
+01:11:56 AM Filosofo maria termino de comer
+01:11:56 AM Filosofo marcos termino de comer
+01:12:01 AM Filosofo ingrid esta comiendo
+01:12:01 AM Filosofo cristiano termino de comer
+01:12:07 AM Filosofo angi termino de comer
+01:12:08 AM Filosofo ingrid termino de comer
+01:12:18 AM Filosofo fredi esta comiendo
+01:12:19 AM Filosofo fredi termino de comer
+01:12:19 AM Filosofo rocio esta comiendo
+01:12:19 AM Filosofo rocio termino de comer
+01:12:27 AM Filosofo cristiano esta comiendo
+01:12:27 AM Filosofo pablo esta comiendo
+01:12:27 AM Filosofo jose esta comiendo
+01:12:27 AM Filosofo monica esta comiendo
+01:12:27 AM Filosofo ingrid esta comiendo
+01:12:27 AM Filosofo angi esta comiendo
+01:12:27 AM Filosofo anibal esta comiendo
+01:12:27 AM Filosofo yesi esta comiendo
+01:12:28 AM Filosofo anibal termino de comer
+01:12:33 AM Filosofo marcos esta comiendo
+01:12:33 AM Filosofo cristiano termino de comer
+01:12:41 AM Filosofo angi termino de comer
+01:12:49 AM Filosofo jose termino de comer
+01:12:51 AM Filosofo maria esta comiendo
+01:12:51 AM Filosofo yesi termino de comer
+01:12:53 AM Filosofo lusi esta comiendo
+01:12:53 AM Filosofo monica termino de comer
+01:12:56 AM Filosofo messi esta comiendo
+01:12:56 AM Filosofo marcos termino de comer
+01:12:59 AM Filosofo kike esta comiendo
+01:12:59 AM Filosofo alex esta comiendo
+01:12:59 AM Filosofo ingrid termino de comer
+01:13:03 AM Filosofo vinicio esta comiendo
+01:13:03 AM Filosofo luis esta comiendo
+01:13:03 AM Filosofo pablo termino de comer
+01:13:10 AM Filosofo bryant esta comiendo
+01:13:10 AM Filosofo maria termino de comer
+01:13:18 AM Filosofo kike termino de comer
+01:13:20 AM Filosofo alex termino de comer
+01:13:27 AM Filosofo lusi termino de comer
+01:13:32 AM Filosofo luis termino de comer
+01:13:33 AM Filosofo messi termino de comer
+01:13:36 AM Filosofo alberto esta comiendo
+01:13:36 AM Filosofo vinicio termino de comer
+01:13:41 AM Filosofo bryant termino de comer
+01:13:44 AM Filosofo alberto termino de comer
+01:13:57 AM Filosofo bryant esta comiendo
+01:13:57 AM Filosofo anibal esta comiendo
+01:13:57 AM Filosofo maria esta comiendo
+01:13:58 AM Filosofo vinicio esta comiendo
+01:13:58 AM Filosofo angi esta comiendo
+01:13:58 AM Filosofo angi termino de comer
+01:14:04 AM Filosofo ingrid esta comiendo
+01:14:04 AM Filosofo cristiano esta comiendo
+01:14:04 AM Filosofo kike esta comiendo
+01:14:04 AM Filosofo bryant termino de comer
+01:14:09 AM Filosofo yesi esta comiendo
+01:14:09 AM Filosofo anibal termino de comer
+01:14:15 AM Filosofo pablo esta comiendo
+01:14:15 AM Filosofo vinicio termino de comer
+01:14:16 AM Filosofo alex esta comiendo
+01:14:16 AM Filosofo maria termino de comer
+01:14:18 AM Filosofo jose esta comiendo
+01:14:18 AM Filosofo cristiano termino de comer
+01:14:19 AM Filosofo yesi termino de comer
+01:14:21 AM Filosofo kike termino de comer
+01:14:25 AM Filosofo marcos esta comiendo
+01:14:25 AM Filosofo ingrid termino de comer
+01:14:28 AM Filosofo messi esta comiendo
+01:14:28 AM Filosofo rocio esta comiendo
+01:14:28 AM Filosofo lusi esta comiendo
+01:14:28 AM Filosofo alex termino de comer
+01:14:28 AM Filosofo jose termino de comer
+01:14:31 AM Filosofo marcos termino de comer
+01:14:40 AM Filosofo pablo termino de comer
+01:14:47 AM Filosofo alberto esta comiendo
+01:14:47 AM Filosofo luis esta comiendo
+01:14:47 AM Filosofo messi termino de comer
+01:14:52 AM Filosofo rocio termino de comer
+01:14:56 AM Filosofo lusi termino de comer
+01:15:04 AM Filosofo alberto termino de comer
+01:15:04 AM Filosofo monica esta comiendo
+01:15:04 AM Filosofo luis termino de comer
+01:15:06 AM Filosofo fredi esta comiendo
+01:15:09 AM Filosofo fredi termino de comer
+01:15:12 AM Filosofo monica termino de comer
+01:15:20 AM Filosofo bryant esta comiendo
+01:15:20 AM Filosofo angi esta comiendo
+01:15:20 AM Filosofo jose esta comiendo
+01:15:20 AM Filosofo bryant termino de comer
+01:15:28 AM Filosofo rocio esta comiendo
+01:15:28 AM Filosofo luis esta comiendo
+01:15:28 AM Filosofo marcos esta comiendo
+01:15:28 AM Filosofo alberto esta comiendo
+01:15:28 AM Filosofo jose termino de comer
+01:15:33 AM Filosofo lusi esta comiendo
+01:15:33 AM Filosofo vinicio esta comiendo
+01:15:33 AM Filosofo messi esta comiendo
+01:15:33 AM Filosofo angi termino de comer
+01:15:34 AM Filosofo luis termino de comer
+01:15:40 AM Filosofo alex esta comiendo
+01:15:40 AM Filosofo marcos termino de comer
+01:15:49 AM Filosofo kike esta comiendo
+01:15:49 AM Filosofo alberto termino de comer
+01:15:58 AM Filosofo maria esta comiendo
+01:15:58 AM Filosofo pablo esta comiendo
+01:15:58 AM Filosofo rocio termino de comer
+01:15:59 AM Filosofo fredi esta comiendo
+01:15:59 AM Filosofo alex termino de comer
+01:16:05 AM Filosofo ingrid esta comiendo
+01:16:05 AM Filosofo kike termino de comer
+01:16:08 AM Filosofo lusi termino de comer
+01:16:10 AM Filosofo anibal esta comiendo
+01:16:10 AM Filosofo messi termino de comer
+01:16:11 AM Filosofo cristiano esta comiendo
+01:16:11 AM Filosofo yesi esta comiendo
+01:16:11 AM Filosofo maria termino de comer
+01:16:15 AM Filosofo vinicio termino de comer
+01:16:16 AM Filosofo fredi termino de comer
+01:16:23 AM Filosofo pablo termino de comer
+01:16:24 AM Filosofo yesi termino de comer
+01:16:27 AM Filosofo ingrid termino de comer
+01:16:30 AM Filosofo anibal termino de comer
+01:16:31 AM Filosofo monica esta comiendo
+01:16:31 AM Filosofo cristiano termino de comer
+01:16:37 AM Filosofo monica termino de comer
+01:16:44 AM Filosofo rocio esta comiendo
+01:16:44 AM Filosofo alberto esta comiendo
+01:16:45 AM Filosofo bryant esta comiendo
+01:16:45 AM Filosofo kike esta comiendo
+01:16:46 AM Filosofo rocio termino de comer
+01:16:49 AM Filosofo bryant termino de comer
+01:16:51 AM Filosofo alberto termino de comer
+01:16:56 AM Filosofo lusi esta comiendo
+01:16:56 AM Filosofo jose esta comiendo
+01:16:56 AM Filosofo monica esta comiendo
+01:16:56 AM Filosofo pablo esta comiendo
+01:16:56 AM Filosofo fredi esta comiendo
+01:16:56 AM Filosofo ingrid esta comiendo
+01:16:56 AM Filosofo jose termino de comer
+01:17:00 AM Filosofo yesi esta comiendo
+01:17:00 AM Filosofo maria esta comiendo
+01:17:00 AM Filosofo kike termino de comer
+01:17:02 AM Filosofo angi esta comiendo
+01:17:02 AM Filosofo marcos esta comiendo
+01:17:02 AM Filosofo monica termino de comer
+01:17:07 AM Filosofo pablo termino de comer
+01:17:15 AM Filosofo lusi termino de comer
+01:17:22 AM Filosofo fredi termino de comer
+01:17:24 AM Filosofo ingrid termino de comer
+01:17:24 AM Filosofo angi termino de comer
+01:17:32 AM Filosofo alex esta comiendo
+01:17:32 AM Filosofo yesi termino de comer
+01:17:37 AM Filosofo maria termino de comer
+01:17:40 AM Filosofo marcos termino de comer
+01:17:42 AM Filosofo anibal esta comiendo
+01:17:42 AM Filosofo vinicio esta comiendo
+01:17:42 AM Filosofo cristiano esta comiendo
+01:17:42 AM Filosofo alex termino de comer
+01:17:49 AM Filosofo luis esta comiendo
+01:17:49 AM Filosofo anibal termino de comer
+01:17:50 AM Filosofo cristiano termino de comer
+01:17:59 AM Filosofo messi esta comiendo
+01:17:59 AM Filosofo vinicio termino de comer
+01:18:07 AM Filosofo luis termino de comer
+01:18:15 AM Filosofo messi termino de comer
+01:18:25 AM Filosofo luis esta comiendo
+01:18:26 AM Filosofo fredi esta comiendo
+01:18:26 AM Filosofo alex esta comiendo
+01:18:27 AM Filosofo vinicio esta comiendo
+01:18:29 AM Filosofo anibal esta comiendo
+01:18:30 AM Filosofo alex termino de comer
+01:18:33 AM Filosofo angi esta comiendo
+01:18:33 AM Filosofo messi esta comiendo
+01:18:33 AM Filosofo alberto esta comiendo
+01:18:33 AM Filosofo luis termino de comer
+01:18:37 AM Filosofo ingrid esta comiendo
+01:18:37 AM Filosofo fredi termino de comer
+01:18:37 AM Filosofo anibal termino de comer
+01:18:40 AM Filosofo marcos esta comiendo
+01:18:40 AM Filosofo alberto termino de comer
+01:18:47 AM Filosofo maria esta comiendo
+01:18:47 AM Filosofo pablo esta comiendo
+01:18:47 AM Filosofo vinicio termino de comer
+01:18:50 AM Filosofo lusi esta comiendo
+01:18:50 AM Filosofo monica esta comiendo
+01:18:50 AM Filosofo ingrid termino de comer
+01:18:51 AM Filosofo rocio esta comiendo
+01:18:51 AM Filosofo messi termino de comer
+01:18:55 AM Filosofo yesi esta comiendo
+01:18:55 AM Filosofo maria termino de comer
+01:18:57 AM Filosofo jose esta comiendo
+01:18:57 AM Filosofo rocio termino de comer
+01:18:57 AM Filosofo marcos termino de comer
+01:18:59 AM Filosofo angi termino de comer
+01:19:06 AM Filosofo pablo termino de comer
+01:19:09 AM Filosofo bryant esta comiendo
+01:19:09 AM Filosofo monica termino de comer
+01:19:15 AM Filosofo lusi termino de comer
+01:19:15 AM Filosofo jose termino de comer
+01:19:16 AM Filosofo kike esta comiendo
+01:19:16 AM Filosofo yesi termino de comer
+01:19:23 AM Filosofo bryant termino de comer
+01:19:31 AM Filosofo cristiano esta comiendo
+01:19:31 AM Filosofo kike termino de comer
+01:19:38 AM Filosofo cristiano termino de comer
+01:19:39 AM Filosofo luis esta comiendo
+01:19:39 AM Filosofo vinicio esta comiendo
+01:19:40 AM Filosofo fredi esta comiendo
+01:19:40 AM Filosofo maria esta comiendo
+01:19:40 AM Filosofo messi esta comiendo
+01:19:41 AM Filosofo marcos esta comiendo
+01:19:42 AM Filosofo luis termino de comer
+01:19:42 AM Filosofo fredi termino de comer
+01:19:46 AM Filosofo ingrid esta comiendo
+01:19:46 AM Filosofo angi esta comiendo
+01:19:46 AM Filosofo bryant esta comiendo
+01:19:46 AM Filosofo lusi esta comiendo
+01:19:46 AM Filosofo vinicio termino de comer
+01:19:52 AM Filosofo monica esta comiendo
+01:19:52 AM Filosofo marcos termino de comer
+01:19:55 AM Filosofo maria termino de comer
+01:20:00 AM Filosofo alberto esta comiendo
+01:20:00 AM Filosofo angi termino de comer
+01:20:01 AM Filosofo lusi termino de comer
+01:20:10 AM Filosofo anibal esta comiendo
+01:20:10 AM Filosofo kike esta comiendo
+01:20:10 AM Filosofo bryant termino de comer
+01:20:11 AM Filosofo jose esta comiendo
+01:20:11 AM Filosofo messi termino de comer
+01:20:19 AM Filosofo cristiano esta comiendo
+01:20:19 AM Filosofo yesi esta comiendo
+01:20:19 AM Filosofo monica termino de comer
+01:20:27 AM Filosofo ingrid termino de comer
+01:20:32 AM Filosofo rocio esta comiendo
+01:20:32 AM Filosofo anibal termino de comer
+01:20:40 AM Filosofo jose termino de comer
+01:20:40 AM Filosofo alberto termino de comer
+01:20:43 AM Filosofo alex esta comiendo
+01:20:43 AM Filosofo pablo esta comiendo
+01:20:43 AM Filosofo yesi termino de comer
+01:20:51 AM Filosofo kike termino de comer
+01:20:56 AM Filosofo rocio termino de comer
+01:20:57 AM Filosofo cristiano termino de comer
+01:21:00 AM Filosofo alex termino de comer
+01:21:00 AM Filosofo pablo termino de comer
+01:21:10 AM Filosofo pablo esta comiendo
+01:21:10 AM Filosofo lusi esta comiendo
+01:21:10 AM Filosofo yesi esta comiendo
+01:21:12 AM Filosofo lusi termino de comer
+01:21:21 AM Filosofo marcos esta comiendo
+01:21:21 AM Filosofo yesi termino de comer
+01:21:29 AM Filosofo luis esta comiendo
+01:21:29 AM Filosofo angi esta comiendo
+01:21:29 AM Filosofo cristiano esta comiendo
+01:21:29 AM Filosofo jose esta comiendo
+01:21:29 AM Filosofo rocio esta comiendo
+01:21:29 AM Filosofo pablo termino de comer
+01:21:32 AM Filosofo bryant esta comiendo
+01:21:32 AM Filosofo alberto esta comiendo
+01:21:32 AM Filosofo monica esta comiendo
+01:21:32 AM Filosofo marcos termino de comer
+01:21:34 AM Filosofo anibal esta comiendo
+01:21:34 AM Filosofo luis termino de comer
+01:21:37 AM Filosofo bryant termino de comer
+01:21:45 AM Filosofo cristiano termino de comer
+01:21:48 AM Filosofo messi esta comiendo
+01:21:48 AM Filosofo rocio termino de comer
+01:21:52 AM Filosofo angi termino de comer
+01:21:57 AM Filosofo jose termino de comer
+01:22:02 AM Filosofo kike esta comiendo
+01:22:02 AM Filosofo anibal termino de comer
+01:22:11 AM Filosofo fredi esta comiendo
+01:22:11 AM Filosofo fredi termino de comer
+01:22:13 AM Filosofo messi termino de comer
+01:22:22 AM Filosofo ingrid esta comiendo
+01:22:22 AM Filosofo monica termino de comer
+01:22:24 AM Filosofo alex esta comiendo
+01:22:24 AM Filosofo vinicio esta comiendo
+01:22:24 AM Filosofo kike termino de comer
+01:22:30 AM Filosofo alberto termino de comer
+01:22:30 AM Filosofo maria esta comiendo
+01:22:30 AM Filosofo ingrid termino de comer
+01:22:38 AM Filosofo vinicio termino de comer
+01:22:41 AM Filosofo alex termino de comer
+01:22:41 AM Filosofo maria termino de comer
+01:22:46 AM Filosofo fredi esta comiendo
+01:22:46 AM Filosofo maria esta comiendo
+01:22:46 AM Filosofo messi esta comiendo
+01:22:46 AM Filosofo messi termino de comer
+01:22:49 AM Filosofo ingrid esta comiendo
+01:22:49 AM Filosofo fredi termino de comer
+01:22:58 AM Filosofo bryant esta comiendo
+01:22:58 AM Filosofo lusi esta comiendo
+01:22:58 AM Filosofo yesi esta comiendo
+01:22:58 AM Filosofo maria termino de comer
+01:22:59 AM Filosofo jose esta comiendo
+01:22:59 AM Filosofo marcos esta comiendo
+01:22:59 AM Filosofo angi esta comiendo
+01:22:59 AM Filosofo ingrid termino de comer
+01:22:59 AM Filosofo rocio esta comiendo
+01:22:59 AM Filosofo alberto esta comiendo
+01:22:59 AM Filosofo monica esta comiendo
+01:23:00 AM Filosofo alberto termino de comer
+01:23:04 AM Filosofo monica termino de comer
+01:23:11 AM Filosofo yesi termino de comer
+01:23:18 AM Filosofo marcos termino de comer
+01:23:21 AM Filosofo jose termino de comer
+01:23:23 AM Filosofo lusi termino de comer
+01:23:27 AM Filosofo vinicio esta comiendo
+01:23:27 AM Filosofo cristiano esta comiendo
+01:23:27 AM Filosofo anibal esta comiendo
+01:23:27 AM Filosofo angi termino de comer
+01:23:36 AM Filosofo rocio termino de comer
+01:23:38 AM Filosofo bryant termino de comer
+01:23:43 AM Filosofo pablo esta comiendo
+01:23:43 AM Filosofo luis esta comiendo
+01:23:43 AM Filosofo alex esta comiendo
+01:23:43 AM Filosofo cristiano termino de comer
+01:23:47 AM Filosofo vinicio termino de comer
+01:23:52 AM Filosofo kike esta comiendo
+01:23:52 AM Filosofo anibal termino de comer
+01:23:55 AM Filosofo pablo termino de comer
+01:24:02 AM Filosofo luis termino de comer
+01:24:09 AM Filosofo alex termino de comer
+01:24:18 AM Filosofo kike termino de comer
+01:24:23 AM Filosofo yesi esta comiendo
+01:24:24 AM Filosofo anibal esta comiendo
+01:24:24 AM Filosofo ingrid esta comiendo
+01:24:24 AM Filosofo jose esta comiendo
+01:24:25 AM Filosofo angi esta comiendo
+01:24:25 AM Filosofo alberto esta comiendo
+01:24:25 AM Filosofo ingrid termino de comer
+01:24:31 AM Filosofo bryant esta comiendo
+01:24:31 AM Filosofo monica esta comiendo
+01:24:31 AM Filosofo angi termino de comer
+01:24:38 AM Filosofo kike esta comiendo
+01:24:38 AM Filosofo rocio esta comiendo
+01:24:38 AM Filosofo yesi termino de comer
+01:24:45 AM Filosofo luis esta comiendo
+01:24:45 AM Filosofo anibal termino de comer
+01:24:45 AM Filosofo lusi esta comiendo
+01:24:45 AM Filosofo jose termino de comer
+01:24:48 AM Filosofo alberto termino de comer
+01:24:51 AM Filosofo monica termino de comer
+01:24:58 AM Filosofo alex esta comiendo
+01:24:58 AM Filosofo rocio termino de comer
+01:24:59 AM Filosofo bryant termino de comer
+01:25:04 AM Filosofo fredi esta comiendo
+01:25:04 AM Filosofo lusi termino de comer
+01:25:10 AM Filosofo cristiano esta comiendo
+01:25:10 AM Filosofo kike termino de comer
+01:25:15 AM Filosofo pablo esta comiendo
+01:25:15 AM Filosofo maria esta comiendo
+01:25:15 AM Filosofo marcos esta comiendo
+01:25:15 AM Filosofo luis termino de comer
+01:25:20 AM Filosofo vinicio esta comiendo
+01:25:20 AM Filosofo cristiano termino de comer
+01:25:22 AM Filosofo messi esta comiendo
+01:25:22 AM Filosofo alex termino de comer
+01:25:27 AM Filosofo marcos termino de comer
+01:25:28 AM Filosofo vinicio termino de comer
+01:25:35 AM Filosofo fredi termino de comer
+01:25:43 AM Filosofo pablo termino de comer
+01:25:43 AM Filosofo maria termino de comer
+01:25:47 AM Filosofo messi termino de comer
+01:25:56 AM Filosofo ingrid esta comiendo
+01:25:56 AM Filosofo angi esta comiendo
+01:25:57 AM Filosofo pablo esta comiendo
+01:25:57 AM Filosofo marcos esta comiendo
+01:25:57 AM Filosofo messi esta comiendo
+01:25:59 AM Filosofo vinicio esta comiendo
+01:25:59 AM Filosofo vinicio termino de comer
+01:26:00 AM Filosofo jose esta comiendo
+01:26:00 AM Filosofo monica esta comiendo
+01:26:02 AM Filosofo marcos termino de comer
+01:26:10 AM Filosofo messi termino de comer
+01:26:16 AM Filosofo yesi esta comiendo
+01:26:16 AM Filosofo ingrid termino de comer
+01:26:21 AM Filosofo rocio esta comiendo
+01:26:21 AM Filosofo lusi esta comiendo
+01:26:21 AM Filosofo pablo termino de comer
+01:26:30 AM Filosofo alberto esta comiendo
+01:26:30 AM Filosofo angi termino de comer
+01:26:31 AM Filosofo kike esta comiendo
+01:26:31 AM Filosofo yesi termino de comer
+01:26:37 AM Filosofo luis esta comiendo
+01:26:37 AM Filosofo rocio termino de comer
+01:26:41 AM Filosofo fredi esta comiendo
+01:26:41 AM Filosofo monica termino de comer
+01:26:48 AM Filosofo alex esta comiendo
+01:26:48 AM Filosofo alberto termino de comer
+01:26:55 AM Filosofo kike termino de comer
+01:26:55 AM Filosofo jose termino de comer
+01:26:57 AM Filosofo luis termino de comer
+01:27:06 AM Filosofo fredi termino de comer
+01:27:09 AM Filosofo bryant esta comiendo
+01:27:09 AM Filosofo lusi termino de comer
+01:27:14 AM Filosofo cristiano esta comiendo
+01:27:14 AM Filosofo alex termino de comer
+01:27:21 AM Filosofo maria esta comiendo
+01:27:21 AM Filosofo anibal esta comiendo
+01:27:21 AM Filosofo cristiano termino de comer
+01:27:21 AM Filosofo bryant termino de comer
+01:27:25 AM Filosofo anibal termino de comer
+01:27:27 AM Filosofo maria termino de comer
+01:27:36 AM Filosofo alex esta comiendo
+01:27:37 AM Filosofo jose esta comiendo
+01:27:37 AM Filosofo yesi esta comiendo
+01:27:38 AM Filosofo kike esta comiendo
+01:27:39 AM Filosofo ingrid esta comiendo
+01:27:39 AM Filosofo kike termino de comer
+01:27:48 AM Filosofo fredi esta comiendo
+01:27:48 AM Filosofo pablo esta comiendo
+01:27:48 AM Filosofo ingrid termino de comer
+01:27:51 AM Filosofo anibal esta comiendo
+01:27:51 AM Filosofo yesi termino de comer
+01:27:54 AM Filosofo alex termino de comer
+01:27:57 AM Filosofo messi esta comiendo
+01:27:57 AM Filosofo luis esta comiendo
+01:27:57 AM Filosofo monica esta comiendo
+01:27:57 AM Filosofo jose termino de comer
+01:28:06 AM Filosofo angi esta comiendo
+01:28:06 AM Filosofo maria esta comiendo
+01:28:06 AM Filosofo pablo termino de comer
+01:28:06 AM Filosofo fredi termino de comer
+01:28:12 AM Filosofo bryant esta comiendo
+01:28:12 AM Filosofo rocio esta comiendo
+01:28:12 AM Filosofo messi termino de comer
+01:28:14 AM Filosofo monica termino de comer
+01:28:14 AM Filosofo maria termino de comer
+01:28:23 AM Filosofo alberto esta comiendo
+01:28:23 AM Filosofo vinicio esta comiendo
+01:28:23 AM Filosofo angi termino de comer
+01:28:31 AM Filosofo luis termino de comer
+01:28:39 AM Filosofo anibal termino de comer
+01:28:45 AM Filosofo cristiano esta comiendo
+01:28:45 AM Filosofo marcos esta comiendo

@@ -1,0 +1,202 @@
+00:41:35 AM Filosofo maria esta comiendo
+00:41:38 AM Filosofo pablo esta comiendo
+00:41:38 AM Filosofo fredi esta comiendo
+00:41:39 AM Filosofo ingrid esta comiendo
+00:41:39 AM Filosofo pablo termino de comer
+00:41:40 AM Filosofo fredi termino de comer
+00:41:43 AM Filosofo bryant esta comiendo
+00:41:43 AM Filosofo bryant termino de comer
+00:41:49 AM Filosofo maria termino de comer
+00:41:55 AM Filosofo alberto esta comiendo
+00:41:55 AM Filosofo ingrid termino de comer
+00:42:03 AM Filosofo luis esta comiendo
+00:42:03 AM Filosofo rocio esta comiendo
+00:42:03 AM Filosofo alberto termino de comer
+00:42:05 AM Filosofo luis termino de comer
+00:42:12 AM Filosofo rocio termino de comer
+00:42:24 AM Filosofo alberto esta comiendo
+00:42:25 AM Filosofo luis esta comiendo
+00:42:26 AM Filosofo fredi esta comiendo
+00:42:27 AM Filosofo fredi termino de comer
+00:42:36 AM Filosofo luis termino de comer
+00:42:40 AM Filosofo bryant esta comiendo
+00:42:40 AM Filosofo ingrid esta comiendo
+00:42:40 AM Filosofo alberto termino de comer
+00:42:44 AM Filosofo maria esta comiendo
+00:42:44 AM Filosofo ingrid termino de comer
+00:42:45 AM Filosofo rocio esta comiendo
+00:42:45 AM Filosofo bryant termino de comer
+00:42:51 AM Filosofo pablo esta comiendo
+00:42:51 AM Filosofo rocio termino de comer
+00:42:51 AM Filosofo maria termino de comer
+00:42:57 AM Filosofo pablo termino de comer
+00:43:11 AM Filosofo pablo esta comiendo
+00:43:13 AM Filosofo fredi esta comiendo
+00:43:13 AM Filosofo maria esta comiendo
+00:43:13 AM Filosofo pablo termino de comer
+00:43:20 AM Filosofo ingrid esta comiendo
+00:43:20 AM Filosofo fredi termino de comer
+00:43:24 AM Filosofo bryant esta comiendo
+00:43:24 AM Filosofo maria termino de comer
+00:43:31 AM Filosofo alberto esta comiendo
+00:43:31 AM Filosofo ingrid termino de comer
+00:43:39 AM Filosofo rocio esta comiendo
+00:43:39 AM Filosofo bryant termino de comer
+00:43:42 AM Filosofo luis esta comiendo
+00:43:42 AM Filosofo alberto termino de comer
+00:43:51 AM Filosofo rocio termino de comer
+00:43:57 AM Filosofo luis termino de comer
+00:44:08 AM Filosofo alberto esta comiendo
+00:44:12 AM Filosofo bryant esta comiendo
+00:44:13 AM Filosofo ingrid esta comiendo
+00:44:13 AM Filosofo bryant termino de comer
+00:44:20 AM Filosofo alberto termino de comer
+00:44:22 AM Filosofo maria esta comiendo
+00:44:22 AM Filosofo ingrid termino de comer
+00:44:28 AM Filosofo rocio esta comiendo
+00:44:28 AM Filosofo pablo esta comiendo
+00:44:28 AM Filosofo maria termino de comer
+00:44:29 AM Filosofo luis esta comiendo
+00:44:33 AM Filosofo pablo termino de comer
+00:44:42 AM Filosofo luis termino de comer
+00:44:51 AM Filosofo rocio termino de comer
+00:44:58 AM Filosofo fredi esta comiendo
+00:44:59 AM Filosofo fredi termino de comer
+00:45:08 AM Filosofo pablo esta comiendo
+00:45:10 AM Filosofo maria esta comiendo
+00:45:11 AM Filosofo rocio esta comiendo
+00:45:13 AM Filosofo maria termino de comer
+00:45:17 AM Filosofo luis esta comiendo
+00:45:17 AM Filosofo pablo termino de comer
+00:45:18 AM Filosofo bryant esta comiendo
+00:45:18 AM Filosofo alberto esta comiendo
+00:45:19 AM Filosofo luis termino de comer
+00:45:20 AM Filosofo rocio termino de comer
+00:45:28 AM Filosofo ingrid esta comiendo
+00:45:28 AM Filosofo alberto termino de comer
+00:45:28 AM Filosofo bryant termino de comer
+00:45:31 AM Filosofo fredi esta comiendo
+00:45:36 AM Filosofo fredi termino de comer
+00:45:42 AM Filosofo ingrid termino de comer
+00:45:48 AM Filosofo pablo esta comiendo
+00:45:48 AM Filosofo maria esta comiendo
+00:45:52 AM Filosofo pablo termino de comer
+00:45:56 AM Filosofo bryant esta comiendo
+00:45:56 AM Filosofo rocio esta comiendo
+00:45:56 AM Filosofo maria termino de comer
+00:46:03 AM Filosofo luis esta comiendo
+00:46:03 AM Filosofo alberto esta comiendo
+00:46:03 AM Filosofo rocio termino de comer
+00:46:10 AM Filosofo bryant termino de comer
+00:46:12 AM Filosofo luis termino de comer
+00:46:19 AM Filosofo fredi esta comiendo
+00:46:19 AM Filosofo ingrid esta comiendo
+00:46:19 AM Filosofo alberto termino de comer
+00:46:24 AM Filosofo ingrid termino de comer
+00:46:32 AM Filosofo fredi termino de comer
+00:46:49 AM Filosofo pablo esta comiendo
+00:46:51 AM Filosofo ingrid esta comiendo
+00:46:55 AM Filosofo ingrid termino de comer
+00:46:58 AM Filosofo pablo termino de comer
+00:47:01 AM Filosofo luis esta comiendo
+00:47:01 AM Filosofo alberto esta comiendo
+00:47:01 AM Filosofo rocio esta comiendo
+00:47:01 AM Filosofo bryant esta comiendo
+00:47:01 AM Filosofo alberto termino de comer
+00:47:09 AM Filosofo rocio termino de comer
+00:47:18 AM Filosofo luis termino de comer
+00:47:25 AM Filosofo maria esta comiendo
+00:47:25 AM Filosofo bryant termino de comer
+00:47:29 AM Filosofo fredi esta comiendo
+00:47:29 AM Filosofo maria termino de comer
+00:47:32 AM Filosofo fredi termino de comer
+00:47:39 AM Filosofo luis esta comiendo
+00:47:41 AM Filosofo luis termino de comer
+00:47:45 AM Filosofo maria esta comiendo
+00:47:45 AM Filosofo rocio esta comiendo
+00:47:45 AM Filosofo bryant esta comiendo
+00:47:49 AM Filosofo bryant termino de comer
+00:47:57 AM Filosofo pablo esta comiendo
+00:47:57 AM Filosofo rocio termino de comer
+00:47:59 AM Filosofo fredi esta comiendo
+00:47:59 AM Filosofo maria termino de comer
+00:48:02 AM Filosofo ingrid esta comiendo
+00:48:02 AM Filosofo ingrid termino de comer
+00:48:05 AM Filosofo pablo termino de comer
+00:48:05 AM Filosofo fredi termino de comer
+00:48:06 AM Filosofo alberto esta comiendo
+00:48:06 AM Filosofo alberto termino de comer
+00:48:19 AM Filosofo luis esta comiendo
+00:48:21 AM Filosofo luis termino de comer
+00:48:29 AM Filosofo pablo esta comiendo
+00:48:29 AM Filosofo rocio esta comiendo
+00:48:29 AM Filosofo maria esta comiendo
+00:48:31 AM Filosofo rocio termino de comer
+00:48:31 AM Filosofo ingrid esta comiendo
+00:48:31 AM Filosofo fredi esta comiendo
+00:48:33 AM Filosofo maria termino de comer
+00:48:42 AM Filosofo pablo termino de comer
+00:48:50 AM Filosofo fredi termino de comer
+00:48:53 AM Filosofo ingrid termino de comer
+00:48:54 AM Filosofo alberto esta comiendo
+00:48:54 AM Filosofo bryant esta comiendo
+00:48:57 AM Filosofo alberto termino de comer
+00:48:58 AM Filosofo bryant termino de comer
+00:49:08 AM Filosofo maria esta comiendo
+00:49:11 AM Filosofo fredi esta comiendo
+00:49:11 AM Filosofo pablo esta comiendo
+00:49:14 AM Filosofo maria termino de comer
+00:49:14 AM Filosofo luis esta comiendo
+00:49:15 AM Filosofo pablo termino de comer
+00:49:21 AM Filosofo alberto esta comiendo
+00:49:21 AM Filosofo fredi termino de comer
+00:49:28 AM Filosofo rocio esta comiendo
+00:49:28 AM Filosofo bryant esta comiendo
+00:49:28 AM Filosofo luis termino de comer
+00:49:34 AM Filosofo alberto termino de comer
+00:49:36 AM Filosofo bryant termino de comer
+00:49:38 AM Filosofo rocio termino de comer
+00:49:47 AM Filosofo ingrid esta comiendo
+00:49:47 AM Filosofo ingrid termino de comer
+00:49:57 AM Filosofo ingrid esta comiendo
+00:49:57 AM Filosofo bryant esta comiendo
+00:49:58 AM Filosofo ingrid termino de comer
+00:50:07 AM Filosofo rocio esta comiendo
+00:50:07 AM Filosofo bryant termino de comer
+00:50:07 AM Filosofo pablo esta comiendo
+00:50:07 AM Filosofo luis esta comiendo
+00:50:14 AM Filosofo rocio termino de comer
+00:50:14 AM Filosofo luis termino de comer
+00:50:22 AM Filosofo maria esta comiendo
+00:50:22 AM Filosofo pablo termino de comer
+00:50:26 AM Filosofo fredi esta comiendo
+00:50:26 AM Filosofo maria termino de comer
+00:50:32 AM Filosofo alberto esta comiendo
+00:50:32 AM Filosofo fredi termino de comer
+00:50:36 AM Filosofo alberto termino de comer
+00:50:38 AM Filosofo ingrid esta comiendo
+00:50:40 AM Filosofo alberto esta comiendo
+00:50:40 AM Filosofo alberto termino de comer
+00:50:44 AM Filosofo maria esta comiendo
+00:50:44 AM Filosofo fredi esta comiendo
+00:50:45 AM Filosofo fredi termino de comer
+00:50:54 AM Filosofo pablo esta comiendo
+00:50:54 AM Filosofo ingrid termino de comer
+00:50:56 AM Filosofo rocio esta comiendo
+00:50:56 AM Filosofo maria termino de comer
+00:51:00 AM Filosofo pablo termino de comer
+00:51:03 AM Filosofo luis esta comiendo
+00:51:03 AM Filosofo bryant esta comiendo
+00:51:03 AM Filosofo bryant termino de comer
+00:51:05 AM Filosofo rocio termino de comer
+00:51:14 AM Filosofo luis termino de comer
+00:51:23 AM Filosofo luis esta comiendo
+00:51:23 AM Filosofo bryant esta comiendo
+00:51:25 AM Filosofo bryant termino de comer
+00:51:27 AM Filosofo fredi esta comiendo
+00:51:27 AM Filosofo pablo esta comiendo
+00:51:27 AM Filosofo luis termino de comer
+00:51:29 AM Filosofo pablo termino de comer
+00:51:37 AM Filosofo ingrid esta comiendo
+00:51:37 AM Filosofo alberto esta comiendo
+00:51:37 AM Filosofo fredi termino de comer
